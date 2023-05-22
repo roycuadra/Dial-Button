@@ -1,7 +1,9 @@
-# Futuristic Dial Button ☎
+# Futuristic Dial Button 
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/LukyVj/pen/xxyEYMJ](https://codepen.io/LukyVj/pen/xxyEYMJ).
+## This website is specifically designed and developed for the purpose of practice and skill enhancement.
 
-A futuristic dial button inspired by: https://twitter.com/JoshGuoSpace/status/1648259938110836738
+## Technologies Use:
+- HTML
+- CSS
+- Javascript
 
-Find the twitter thread here: https://twitter.com/LukyVJ/status/1650128063672229889
